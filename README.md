@@ -1,6 +1,6 @@
-# Image-Gallery
+# Udacity-Project1-Portfolio
 
-A front-end image gallery website that uses Materialize and jQuery.
+A Simple Responsive Portfolio.
 
 ## Screenshots
 
